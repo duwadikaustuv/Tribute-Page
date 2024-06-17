@@ -1,0 +1,96 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #2D3250;
+  }
+  h1, #description, #timeline-title {
+    display: flex;
+    justify-content: center;
+  }
+  h1, h2, h3 {
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #7077A1;
+    color: white;
+  }
+  img {
+    display: block;
+    margin: auto;
+    background-color: #7077A1;
+  }
+  #description {
+    font-size: 1.1rem;
+  }
+  figcaption {
+    background-color: #7077A1;
+    margin-top: 2%;
+    color: white;
+    font-size: 1.1rem;
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+ 
+  }
+  fieldset {
+    background-color: #7077A1;
+    margin: 2%;
+    padding: 5%;
+    border: 0;
+    border-radius: 2%;
+  }
+  #title > p {
+    background-color: #7077A1;
+    color: white;
+  }
+  ul > li, ul > li > b, i, a  {
+    background-color: #7077A1;
+    color: white;
+  }
+  ul > li > b  {
+    background-color: #7077A1;
+    color: white;
+  }
+  li > b::marker {
+    background-color: #7077A1;
+  }
+  p, li > b {
+    background-color: #7077A1;
+  }
+
+  #tribute-info > h3 {
+    margin: 1%;
+    padding: 1%;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  ul {
+    margin: 1%;
+    padding: 2% 1%;
+    background-color: #7077A1;
+    font-size: 1.1rem;
+  }
+  li {
+    background-color: #7077A1;
+    margin: 2% 1%;
+  }
+  #tribute-info > h2 {
+    font-size: 2rem;
+  }
+  h1 {
+    font-size: 2.5rem;
+  }
+  figcaption, #description, ul {
+    font-family: 'Roboto', sans-serif;
+  }
+  a:hover {
+    color: #2D3250;
+  }
+  a:active {
+    color: aqua;
+  }
+  i {
+    font-size: 1.1rem;
+  }
+  #img-div {
+    background-color: #7077A1;
+  }
